@@ -1,0 +1,14 @@
+6 passos para commitar no GitHub:
+
+
+1º - Criar um repositório no Github
+
+2º - Copiar o link desse repositório
+
+3º - Clonar esse repositório no Git Bash utilizando o seguinte comando: (git clone + url) e dar Enter
+
+4º - Adicionar todos os arquivos no controle de versão utilizando o comando: (git add .) ou (git add -A)
+
+5º - Criar um commit local utilizando o comando: (git commit -m "comentário sobre o commit")
+
+6º - Enviar o commit para o GitHub usando o comando: (git push origin main).
